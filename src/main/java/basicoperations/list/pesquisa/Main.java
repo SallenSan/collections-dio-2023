@@ -1,4 +1,4 @@
-package pesquisa;
+package basicoperations.list.pesquisa;
 
 import java.util.Scanner;
 

@@ -1,4 +1,6 @@
-package basicoperations;
+package basicoperations.list;
+
+import basicoperations.list.Task;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package pesquisa;
+package basicoperations.list.pesquisa;
 
 public class Book {
     private String title;
